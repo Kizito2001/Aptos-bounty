@@ -1,6 +1,4 @@
-Here’s an updated `README.md` file that includes explanations and code snippets for the two additional features. It also includes the video link as requested.
 
-```markdown
 # Aptos Rock-Paper-Scissors Game
 
 Welcome to the Aptos Rock-Paper-Scissors game repository! This project showcases a simple Rock-Paper-Scissors game implemented using the Aptos blockchain. 
@@ -68,17 +66,3 @@ Watch a demonstration of the game and its features here:
 
 [![Watch the video](https://img.youtube.com/vi/Q9XumcAk4Y8/maxresdefault.jpg)](https://youtu.be/Q9XumcAk4Y8)
 
-## Getting Started
-
-To get started with this project, follow the instructions provided in the [Aptos documentation](https://docs.aptos.dev/). Make sure you have the Aptos CLI installed and configured.
-
-## Contributing
-
-Feel free to open issues or submit pull requests. We welcome contributions and feedback!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-This README file should give users a clear understanding of the added features and how they work. If you need any more adjustments or additional details, just let me know!
